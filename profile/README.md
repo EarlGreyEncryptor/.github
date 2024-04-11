@@ -34,8 +34,8 @@ WIP
 ## 🍿 Fun facts
 
 So Github asks us to fill this section with out team's info.. so why not? ;)
-*cybor97* -- assemblies some weird things with Arduino and hiking 🛠️🏔️🦝
-*Volaheck* -- huge fan of crypto and "into" frontend ₿🖥️🦆🟡
-*yazmeyaa* -- cat person, that's all you need to know about him 😼👨‍💻☕
-*OrangeMGE*/*OrangeMGEGE* -- (we afraid the fact he told is too spicy to post here 🌶️😉)
-*Baremantar* -- refused to tell us. We'll give him some time 🤷‍♂️😉
+- *cybor97* -- assemblies some weird things with Arduino and hiking 🛠️🏔️🦝
+- *Volaheck* -- huge fan of crypto and "into" frontend ₿🖥️🦆🟡
+- *yazmeyaa* -- cat person, that's all you need to know about him 😼👨‍💻☕
+- *OrangeMGE*/*OrangeMGEGE* -- (we afraid the fact he told is too spicy to post here 🌶️😉)
+- *Baremantar* -- refused to tell us. We'll give him some time 🤷‍♂️😉
