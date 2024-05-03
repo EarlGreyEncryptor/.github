@@ -5,14 +5,14 @@ Welcome to the official repository of EarlGreyVPN, the next generation of VPN se
 ## System state
 
 ### Core
-- ![Build & Test](https://github.com/EarlGreyVPN/ovpnrental_core/actions/workflows/test.yml/badge.svg)
-- ![Deploy DEV](https://github.com/EarlGreyVPN/ovpnrental_core/actions/workflows/deploy.yml/badge.svg)
-- ![Deploy PROD](https://github.com/EarlGreyVPN/ovpnrental_core/actions/workflows/deploy-prod.yml/badge.svg)
+- TEST ![Build & Test](https://github.com/EarlGreyVPN/ovpnrental_core/actions/workflows/test.yml/badge.svg)
+- DEV ![Deploy DEV](https://github.com/EarlGreyVPN/ovpnrental_core/actions/workflows/deploy.yml/badge.svg)
+- PROD ![Deploy PROD](https://github.com/EarlGreyVPN/ovpnrental_core/actions/workflows/deploy-prod.yml/badge.svg)
 
 ### Dashboard
-- ![Build & Test](https://github.com/EarlGreyVPN/ovpnrental_dashboard/actions/workflows/test.yml/badge.svg)
-- ![Deploy DEV](https://github.com/EarlGreyVPN/ovpnrental_dashboard/actions/workflows/deploy.yml/badge.svg)
-- ![Deploy PROD](https://github.com/EarlGreyVPN/ovpnrental_dashboard/actions/workflows/deploy_prod.yml/badge.svg)
+- TEST ![Build & Test](https://github.com/EarlGreyVPN/ovpnrental_dashboard/actions/workflows/test.yml/badge.svg)
+- DEV ![Deploy DEV](https://github.com/EarlGreyVPN/ovpnrental_dashboard/actions/workflows/deploy.yml/badge.svg)
+- PROD ![Deploy PROD](https://github.com/EarlGreyVPN/ovpnrental_dashboard/actions/workflows/deploy_prod.yml/badge.svg)
 
 ## ✨ Features
 
