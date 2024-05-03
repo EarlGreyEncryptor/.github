@@ -2,6 +2,18 @@
 
 Welcome to the official repository of EarlGreyVPN, the next generation of VPN services designed to provide you with secure, fast and reliable internet access. Our mission is to ensure your online privacy and security, allowing you to browse the web safely, without restrictions.
 
+## System state
+
+### Core
+- ![Build & Test](https://github.com/EarlGreyVPN/ovpnrental_core/actions/workflows/test.yml/badge.svg)
+- ![Deploy DEV](https://github.com/EarlGreyVPN/ovpnrental_core/actions/workflows/deploy.yml/badge.svg)
+- ![Deploy PROD](https://github.com/EarlGreyVPN/ovpnrental_core/actions/workflows/deploy-prod.yml/badge.svg)
+
+### Dashboard
+- ![Build & Test](https://github.com/EarlGreyVPN/ovpnrental_dashboard/actions/workflows/test.yml/badge.svg)
+- ![Deploy DEV](https://github.com/EarlGreyVPN/ovpnrental_dashboard/actions/workflows/deploy.yml/badge.svg)
+- ![Deploy PROD](https://github.com/EarlGreyVPN/ovpnrental_dashboard/actions/workflows/deploy_prod.yml/badge.svg)
+
 ## ✨ Features
 
 - **High-Speed Connection**: Experience blazing-fast internet speeds with little to no bandwidth limits. Perfect for streaming, gaming, and fast downloads.
